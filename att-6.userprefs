@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/graph1.js">
+    <Files>
+      <File FileName="Assets/OVR/Scripts/Util/OVRGamepadController.cs" Line="226" Column="1" />
+      <File FileName="Assets/OVR/Scripts/Util/OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Moonlight/Scripts/Utils/OVRDebugGraph.cs" Line="1" Column="1" />
+      <File FileName="Assets/graph1.js" Line="5" Column="44" />
+      <File FileName="Assets/OVR/Scripts/Util/OVRTrackerBounds.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
